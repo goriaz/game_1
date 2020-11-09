@@ -1,0 +1,15 @@
+canvas {
+    border: 1px solid #d3d3d3;
+    background-color: yellow;
+}
+.b{
+    text-align: center;
+    width: 391px;
+    background-color: #000;
+    padding-top: 32px;
+    padding-bottom: 29px;
+    margin-left: 451px;
+}
+button{
+    background-color:red;
+}
